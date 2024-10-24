@@ -1,0 +1,3 @@
+G:/5th Semester/Computer Graphics/Project1-2024/cmake-build-debug/CMakeFiles/Project1_2024.dir
+G:/5th Semester/Computer Graphics/Project1-2024/cmake-build-debug/CMakeFiles/edit_cache.dir
+G:/5th Semester/Computer Graphics/Project1-2024/cmake-build-debug/CMakeFiles/rebuild_cache.dir
